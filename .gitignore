@@ -1,0 +1,19 @@
+# virtual env
+.venv/
+venv/
+
+# cache
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+
+# build
+*.exe
+
+# system
+.DS_Store
+
+# optional
+*.log
