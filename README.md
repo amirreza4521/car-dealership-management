@@ -1,5 +1,17 @@
 # 🚗 سیستم مدیریت نمایشگاه خودرو
 
+![Version](https://img.shields.io/badge/version-v1.0.0-blue)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
+![Python](https://img.shields.io/badge/python-3.x-yellow)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-stable-success)
+---
+
+## 📥 Download
+
+👉 **[Download Latest Release](https://github.com/USERNAME/REPO/releases)**
+
+---
 یک نرم‌افزار دسکتاپی مبتنی بر Python برای مدیریت کامل فرآیند **خرید، فروش و ثبت معاملات خودرو** در نمایشگاه‌ها و کسب‌وکارهای مرتبط.
 
 این سیستم با هدف **ثبت دقیق اطلاعات، جلوگیری از تکرار داده‌ها، و مدیریت حرفه‌ای قولنامه‌ها** طراحی شده است.
